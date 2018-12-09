@@ -1,3 +1,3 @@
 # Python
 
-Python basics, with examples.
+Python basics, with examples and explanations
