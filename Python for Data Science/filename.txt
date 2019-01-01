@@ -1,1 +1,2 @@
-Example text file...
+Example text file...first line.
+...second line.
