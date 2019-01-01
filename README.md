@@ -1,3 +1,3 @@
 # Python
 
-Python basics, with examples and explanations
+Python basics and Python for Data Science, with examples and explanations.
