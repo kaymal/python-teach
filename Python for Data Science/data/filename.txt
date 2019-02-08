@@ -1,0 +1,2 @@
+Example text file...first line.
+...second line.
